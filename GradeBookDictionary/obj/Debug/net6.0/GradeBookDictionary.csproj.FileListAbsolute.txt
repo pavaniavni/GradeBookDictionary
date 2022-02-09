@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\bin\Debug\net6.0\GradeBookDictionary.exe
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\bin\Debug\net6.0\GradeBookDictionary.deps.json
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\bin\Debug\net6.0\GradeBookDictionary.runtimeconfig.json
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\bin\Debug\net6.0\GradeBookDictionary.dll
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\bin\Debug\net6.0\ref\GradeBookDictionary.dll
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\bin\Debug\net6.0\GradeBookDictionary.pdb
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\GradeBookDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\GradeBookDictionary.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\GradeBookDictionary.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\GradeBookDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\GradeBookDictionary.dll
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\ref\GradeBookDictionary.dll
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\GradeBookDictionary.pdb
+C:\Users\Pavani\source\repos\GradeBookDictionary\GradeBookDictionary\obj\Debug\net6.0\GradeBookDictionary.genruntimeconfig.cache
